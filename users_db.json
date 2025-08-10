@@ -1,0 +1,48 @@
+{
+  "91501223-c338-43ab-8496-d07e832aaefa": {
+    "id": "91501223-c338-43ab-8496-d07e832aaefa",
+    "email": "anup@gmail.com",
+    "hashed_password": "$2b$12$MZ.0KBMkKc31yN3YcKH0E.n9dlf.hJ2Fqv477hFnn5FSYJ1hfmMCi",
+    "role": "student",
+    "profile": {
+      "name": "AnUp",
+      "phone": null,
+      "photo_url": null,
+      "education": [],
+      "skills": [],
+      "interests": [],
+      "location": null,
+      "bio": null,
+      "organization_name": null,
+      "organization_email": null
+    },
+    "is_active": true,
+    "is_verified": false,
+    "created_at": "2025-08-07T08:44:10.375481",
+    "updated_at": "2025-08-07T08:44:10.375486",
+    "_id": "91501223-c338-43ab-8496-d07e832aaefa"
+  },
+  "38b45b0b-2863-4b86-b813-76de29c9da61": {
+    "id": "38b45b0b-2863-4b86-b813-76de29c9da61",
+    "email": "ashnee@indi.in",
+    "hashed_password": "$2b$12$11ojuNFcKWboFdgFJM7MvesF1aCHAPMMa.2/StzcEffGbErNsGAdy",
+    "role": "employer",
+    "profile": {
+      "name": "Ashi Neerat",
+      "phone": "8927381398",
+      "photo_url": null,
+      "education": [],
+      "skills": [],
+      "interests": [],
+      "location": null,
+      "bio": null,
+      "organization_name": "Indi",
+      "organization_email": "ashnee@indi.in"
+    },
+    "is_active": true,
+    "is_verified": false,
+    "created_at": "2025-08-07T09:27:14.741830",
+    "updated_at": "2025-08-07T09:27:14.741836",
+    "_id": "38b45b0b-2863-4b86-b813-76de29c9da61"
+  }
+}
